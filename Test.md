@@ -4,7 +4,7 @@ Written with [StackEdit](https://stackedit.io/).
 
 ## Memorizing
 
-> Recursive function with memorizing written in Python
+> Recursive function with memorizing written in Python.
 
 ```Python
 def memorize(f):
