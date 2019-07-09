@@ -1,6 +1,6 @@
 ﻿> Written with [StackEdit](https://stackedit.io/).
 
-***Compatibility strategies in licensing, open source software and formal standards: Externalities of Java 'standardisation'***
+[***Compatibility strategies in licensing, open source software and formal standards: Externalities of Java 'standardisation'***](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.196.312&rep=rep1&type=pdf)
 
 ## 概要
 標準化とは、互換性を保つという方法で技術の拡散を調整する方法である。それは本質的に、事前の市場メカニズムであり、製品及び開発者の活動の場を均すものである。標準化が持つ、ソフトウェア開発者やユーザーに対しての第一の価値とICT政策決定者にとっての重要性は、互換性から派生する良い外部性によるものである。
